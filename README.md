@@ -19,4 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 ## screenshot 1
 <img src="Screenshot_2020-11-07-22-55-52-610_com.example.youtube_integration.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" width="300" />  
+     style="float: left; margin-right: 10px;" width="300" /> 
+## screenshot 2
+<img src="Screenshot_2020-11-07-23-06-46-613_com.example.youtube_integration.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" width="300" />      
